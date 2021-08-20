@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center">NRSBackdoor</h1>
 <h4 align="center">100% Undetectable NodeJS reverse shell backdoor virus that autoruns on startup</h4>
 </p>
@@ -8,8 +9,9 @@
 	<a href="https://github.com/I2rys/NRSBackdoor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/NRSBackdoor?style=flat-square"></img></a>
 	<a href="https://github.com/I2rys/NRSBackdoor"><img src="https://bettercodehub.com/edge/badge/I2rys/NRSBackdoor?branch=main"></a>
 	<a href="https://github.com/I2rys/NRSBackdoor/issues"><img src="https://img.shields.io/github/issues/I2rys/NRSBackdoor.svg"></img></a>
-	<a href="https://github.com/I2rys/NRSBackdoor"><img src="https://img.shields.io/badge/version-1.0.0-orange"></img></a>
+	<a href="https://github.com/I2rys/NRSBackdoor"><img src="https://img.shields.io/badge/version-1.0.1-orange"></img></a>
 	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
+	<a href="https://en.wikipedia.org/wiki/VBScript#:~:text=VBScript%20(%22Microsoft%20Visual%20Basic%20Scripting,and%20other%20advanced%20programming%20constructs."><img src="https://img.shields.io/badge/VBS-0175C2?style=flat-squire&logo=vbs&logoColor=white"></img></a>
 </p>
 
 
