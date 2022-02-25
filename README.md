@@ -1,8 +1,5 @@
-
-
-
 <h1 align="center">NRSBackdoor</h1>
-<h4 align="center">100% Undetectable NodeJS reverse shell backdoor virus that autoruns on startup</h4>
+<h4 align="center">100% Undetectable NodeJS reverse shell backdoor that autoruns on startup</h4>
 </p>
 	<img src="https://github.com/I2rys/NRSBackdoor/raw/main/preview.PNG?raw=true"></img>
 <p align="center">
